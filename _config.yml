@@ -1,7 +1,8 @@
 layout_spectrum: 0.9086022
+typography_spectrum: 0.341869
 color:
-  saturation: 0.2113061
-  lightness: 0.6525839
+  saturation: 0.9874552
+  lightness: 0.6738351
   brandStrength: 1
   brandColors:
     - '#6D9092'
@@ -9,6 +10,5 @@ color:
     - '#FD3F59'
     - '#FAC946'
     - '#9CB876'
-  rhythmicContrast: 0.2030673
-typography_spectrum: 0.341869
+  rhythmicContrast: 0.3853047
 name: Streetfox
