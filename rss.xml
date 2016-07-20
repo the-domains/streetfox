@@ -4,8 +4,15 @@
         <description><![CDATA[Streetfox]]></description>
         <link>https://thegrid.ai/streetfox/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 00:19:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 00:19:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/streetfox/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Music]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2961ada-f2c7-4c46-adab-5bb086caa186.png">]]></description>
+            <link>https://thegrid.ai/streetfox/music/index.html</link>
+            <guid isPermaLink="false">efeb2bb9-09a8-4150-8d84-a9509e0efd99</guid>
+            <pubDate>Wed, 20 Jul 2016 00:19:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a556de06-c4c1-4e50-88fc-7392177edfea.png">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/streetfox/about/index.html</link>
             <guid isPermaLink="false">aee89db3-2c97-4e61-a229-3ea16607c2b7</guid>
             <pubDate>Wed, 20 Jul 2016 00:11:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Music]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2961ada-f2c7-4c46-adab-5bb086caa186.png">]]></description>
-            <link>https://thegrid.ai/streetfox/music/index.html</link>
-            <guid isPermaLink="false">efeb2bb9-09a8-4150-8d84-a9509e0efd99</guid>
-            <pubDate>Tue, 19 Jul 2016 23:58:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
